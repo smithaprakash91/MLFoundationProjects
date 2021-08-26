@@ -8,6 +8,7 @@ The combined effects of ambient and household air pollution causes about 7 milli
 These largely results in increased mortality from stroke, heart diseases, chronic obstructive pulmonary disease, lung cancer, and acute respiratory infections.
 
 Current Scenario
+
 As we know in recent years the pollution emitted per day has increased drastically, countries all around the world are taking up actions in order to tackle the rapid increase in pollution to avoid global warming.
 Beijing’s pollution authority has collected data for the past 5 years and the data has been passed on to your client by the government of China.
 The company calculates pollution using traditional or manual methods, so it needs a model to do the long process.
